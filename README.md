@@ -6,13 +6,13 @@ This repository contains exercises and solutions from Harvard's CS50 course, foc
 ### Course Lessons
 The course is divided into seven lessons, each exploring a key aspect of databases and SQL:
 
-- Week 0: Querying – Learn to retrieve data using basic SQL queries.
-- Week 1: Relating – Understand relationships between tables and explore joins.
-- Week 2: Designing – Master the principles of database design and normalization.
-- Week 3: Writing – Work with SQL commands to manipulate data effectively.
-- Week 4: Viewing – Create and manage views for streamlined data access.
-- Week 5: Optimizing – Improve query performance through indexing and optimization techniques.
-- Week 6: Scaling – Explore methods to scale databases for larger datasets and higher loads.
+- Week 0. Querying – Learn to retrieve data using basic SQL queries.
+- Week 1. Relating – Understand relationships between tables and explore joins.
+- Week 2. Designing – Master the principles of database design and normalization.
+- Week 3. Writing – Work with SQL commands to manipulate data effectively.
+- Week 4. Viewing – Create and manage views for streamlined data access.
+- Week 5. Optimizing – Improve query performance through indexing and optimization techniques.
+- Week 6. Scaling – Explore methods to scale databases for larger datasets and higher loads.
 
 ### Repository Structure
 
