@@ -7,8 +7,8 @@ This repository contains exercises and solutions from Harvard's CS50 course, foc
 The course is divided into seven lessons, each exploring a key aspect of databases and SQL:
 
 - [Week 0. Querying](https://github.com/PanosChatzi/CS50-SQL/tree/main/Week%200.%20Querying) – Learn to retrieve data using basic SQL queries.
-- [Week 1. Relating](https://github.com/PanosChatzi/CS50-SQL/tree/main/Week%201.%20Relating) – Understand relationships between tables, and explore subqueries, joins, sets and aggregations.
-- Week 2. Designing – Understand the principles of database design and normalization.
+- [Week 1. Relating](https://github.com/PanosChatzi/CS50-SQL/tree/main/Week%201.%20Relating) – Understand relationships between tables, and explore subqueries, joins, sets and groups.
+- Week 2. Designing – Learn database design, normalization, data types and storage classes, table and column constraints, and altering tables.
 - Week 3. Writing – Work with SQL commands to manipulate data effectively.
 - Week 4. Viewing – Create and manage views for streamlined data access.
 - Week 5. Optimizing – Improve query performance through indexing and optimization techniques.
